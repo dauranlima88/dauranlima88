@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @dauranlima88, I'm 35 y.o, Married and father of a amazing son called Ben! I strive to be 1% better than yesterday! I'm doing career transition and dive into a software development!
+- 👀 I’m interested in inprove my skills in web development and tech like HTML, CSS, Javascript, React, Nextjs, Tailwind
+- 🌱 I’m currently learning bit a both! web and mobile
+- 📫 How to reach me on my instagram @lima.dauran or dauranlima@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Before learning to program, I was a Scrum Master and loved working in an IT environment! That's why I chose to be a software engineer!
